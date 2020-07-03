@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   
+position: relative;
+width: 1010px;
+height: 3869px;
+}
+
+/* header */
+.header{
+    overflow: hidden;
+    background-color:rgba(3, 3, 3, 0.13);
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.header a{
+     color: #FFFFFF;
+    font-family: ;
+    line-height: 22px;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    text-transform: uppercase;
+    float: left;
+    margin: 25px ;
+    margin-left: 20px;
+    margin-right: 50px;
+
+}
+
+
+
+
